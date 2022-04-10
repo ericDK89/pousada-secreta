@@ -1,6 +1,6 @@
 export default function BannerQuartosCasal() {
     return (
-      <div className="quartos-solteiro casal container">
+      <div className="quartos-solteiro container">
           <div className="quartos-solteiro-mobile">
               <img src="./assets/images/quarto-casal1.jpg" alt=""/>
           </div>

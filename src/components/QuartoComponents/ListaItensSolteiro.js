@@ -1,6 +1,6 @@
 export default function ListaItensSolteiro() {
   return (
-    <div className="lista-div container-lista">
+    <div className="lista-div container-lista"  id="casal">
         <div className="lista-titulo">
             <h3>Informações sobre o quarto:</h3>
         </div>

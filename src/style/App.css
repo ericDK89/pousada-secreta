@@ -242,9 +242,10 @@ main{
 }
 
 .quartos-solteiro img{
+  max-width: 100%;
   width: 309px;
   margin-right: 5px;
-  height: 100%;
+  height: 230px;
 }
 
 .lista-div{
@@ -321,7 +322,7 @@ h3{
 
   .quarto-img-mobile{
     max-width: 100%;
-    width: 90%;
+    width: 100%;
     margin-right: 0;
   }
 
@@ -386,6 +387,11 @@ h3{
 
   .quartos-solteiro-mobile{
     margin-bottom: 20px;
+  }
+
+  .quartos-solteiro img{
+    max-width: 100%;
+    width: 350px;
   }
 
   .lista{

@@ -11,7 +11,7 @@ import ListaItensFamilia from "./ListItensFamilia";
 export default function Quarto() {
   return (
     <div>
-        <main className="main-quarto"></main>
+        <main className="main-quarto" id="solteiro"></main>
         <MidSectionQuartosSolteiro/>
         <BannerQuartosSolteiro/>
         <ListaItensSolteiro/>

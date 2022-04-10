@@ -1,5 +1,6 @@
 import { Navbar, Container, Nav } from "react-bootstrap"
 import { Link } from "react-router-dom"
+import { HashLink } from 'react-router-hash-link';
 
 export default function Header() {
 
@@ -13,8 +14,8 @@ export default function Header() {
       <Nav className="me-auto nav-link-mobile"></Nav>
 
       <Nav className="me-auto nav-link-mobile">
-        <Nav.Link><a href='#sobre' className="link">SOBRE</a></Nav.Link>
-        <Nav.Link><a href='#rota' className="link">ROTA</a></Nav.Link>
+        <Nav.Link><HashLink to='/#sobre' className="link">SOBRE</HashLink></Nav.Link>
+        <Nav.Link><HashLink to='/#rota' className="link">ROTA</HashLink></Nav.Link>
         <Nav.Link><Link to='/quarto' className="link">QUARTOS</Link></Nav.Link>
       </Nav>
 

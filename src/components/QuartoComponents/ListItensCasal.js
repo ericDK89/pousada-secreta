@@ -8,7 +8,7 @@ export default function ListaItensCasal() {
           <div className="lista">
               <ul>
                   <li>TV de tela plana a cabo.</li>
-                  <li>1 ou 2 camas de solteiro.</li>
+                  <li>1 cama de casal.</li>
               </ul>
               <ul>
                   <li>Cozinha compacta.</li>
@@ -18,7 +18,7 @@ export default function ListaItensCasal() {
               </ul>
               <ul>
                   <li>Ar-condicionado.</li>
-                  <li>Não permite cancelamento.</li>
+                  <li>Cancelamento grátis.</li>
               </ul>
           </div>
       </div>
