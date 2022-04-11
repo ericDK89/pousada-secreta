@@ -27,5 +27,5 @@
 
 Pousada Secreta uma página web sobre uma pousada em Angra dos Reis.
 
-Feito por Eric <a href="https://www.linkedin.com/in/eric-macedo-9b47601b1/"> 🌌[ Veja meu LinkedIn ]</a>
+
 
